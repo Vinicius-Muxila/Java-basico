@@ -18,7 +18,12 @@ public class Calculadora {
      * @return int o resultado deste método é a soma dos dois números.
      *
      */
-    public int somar(int numeroUm, int numeroDois) {
-        return numeroUm + numeroDois;
+    public static void main(String[] args) {
+        int numeroUm = 5;
+        int numeroDois = 6;
+   
+        public int somar(int numeroUm, int numeroDois) {
+            return numeroUm + numeroDois;
+        }
     }
 }
