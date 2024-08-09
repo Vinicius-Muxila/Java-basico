@@ -47,7 +47,7 @@ public class SimulacaoBancaria {
                     break;
                 default:
                     // Opção inválida.
-                    System.out.println("Opção inválida. Tente novamente.");
+                    System.out.println("Operação inválida. Tente novamente.");
             }
         }
         scanner.close();
